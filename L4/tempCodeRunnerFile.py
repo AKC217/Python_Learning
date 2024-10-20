@@ -1,0 +1,2 @@
+
+# print(student["marks2"])
